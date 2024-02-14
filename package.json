@@ -1,9 +1,8 @@
 {
   "name": "cf-tunnel-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple cli tool to help create tunnels using cloudflare for nodejs projects",
   "main": "tunnel.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
