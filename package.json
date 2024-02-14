@@ -1,6 +1,6 @@
 {
   "name": "cf-tunnel-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple cli tool to help create tunnels using cloudflare for nodejs projects",
   "main": "tunnel.js",
   "scripts": {
