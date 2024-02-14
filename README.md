@@ -50,6 +50,10 @@ CF-Tunnel-CLI can be used in two ways:
 
 On the first run, CF-Tunnel-CLI will ask for the base URL for your tunnels (e.g., `graduatesapi.com`). This setting will be saved in a configuration file located in your home directory (`.egTunnelsConfig.json`) for future use.
 
+## Demo usage
+https://github.com/EcomGraduates/cf-tunnel-cli/assets/74157486/e31adb77-429c-4952-b0ae-badfb8c84def
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or create an issue for bugs, questions, or new features.
